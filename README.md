@@ -9,4 +9,4 @@ Run the following command in your Codespace terminal:
 
 ```bash
 python app.py
-![image](https://github.com/user-attachments/assets/b55b32ff-445b-427d-bb69-e15e53f64235)
+
